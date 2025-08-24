@@ -90,7 +90,7 @@ This repository contains the implementation of various **Machine Vision Lab expe
    pip install opencv-python numpy matplotlib scikit-image
    ```
 3. Run each experiment file:
-   Just copy paste the code on your system either locally through VSCode or use Colab.
+   Simply copy and paste the code into your system, either locally through VSCode or using Colab.
    or open the provided **Google Colab notebooks** for Labs 6–8.
 
 ---
@@ -103,4 +103,5 @@ This repository contains the implementation of various **Machine Vision Lab expe
 
 ## 👤 Author
 **Name:** Om Subrato Dey  
+**Alumni of Vellore Institute of Technology Chennai**
 ---
