@@ -1,6 +1,6 @@
 <img width="361" height="140" alt="image" src="https://github.com/user-attachments/assets/457c8551-5ed4-4185-b649-53182399e152" />
-# Machine Vision Lab
 
+# Machine Vision Lab
 This repository contains the implementation of various **Machine Vision Lab experiments** including image processing, filtering, segmentation, edge detection, and texture analysis using Python (OpenCV, NumPy, Matplotlib, and scikit-image).
 ---
 
