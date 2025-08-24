@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/VIT.png" alt="VIT Logo" width="400"/>
+  <img src="images/VIT.png" width="400"/>
 </p>                                                                
 
 # Machine Vision Lab
